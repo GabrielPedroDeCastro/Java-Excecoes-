@@ -1,1 +1,1 @@
-# Java-Excecoes-Study
+# Java-Exceções
